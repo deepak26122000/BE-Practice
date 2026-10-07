@@ -30,8 +30,3 @@ jobs:
         run: npm ci
 
 
-
-      # 5. Build application
-      - name: Build
-        run: npm run build
-
